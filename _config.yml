@@ -1,0 +1,21 @@
+title: "My GitHub Blog"
+author: "Your Name"
+description: "A simple blog powered by Jekyll and GitHub Pages."
+theme: minima
+
+# Default Permalink
+permalink: /:title/
+
+# Base URL
+url: "https://username.github.io"
+baseurl: "/TestBlog"
+
+# Header Navigation
+header_pages:
+  - index.md
+  - about.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
