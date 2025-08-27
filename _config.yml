@@ -8,7 +8,7 @@ permalink: /:title/
 
 # Base URL
 url: "https://username.github.io"
-baseurl: "/TestBlog"
+baseurl: "/jaydenrasband"
 
 # Header Navigation
 header_pages:
