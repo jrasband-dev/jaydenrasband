@@ -3,10 +3,10 @@ author: "Jayden Rasband"
 description: "Blog by Jayden Rasband"
 theme: minima
 
-# minima:
-#   skin: classic
-#   custom_css:
-#     - /assets/css/custom.css
+minima:
+  skin: classic
+  custom_css:
+    - /assets/css/custom.css
 
 
 # Default Permalink
